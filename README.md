@@ -22,7 +22,7 @@ Dataset source: https://www.kaggle.com/datasets/kanakbaghel/hospital-management-
 ### 1) Clone the repo and create a virtual environment
 
 ```powershell
-git clone https://github.com/saqlain914/Hospital_Analytics
+git clone https://github.com/Saiteja-DevHub/Hospital-Healthcare-analytics.git
 cd Hospital-Analytics
 python -m venv test_env
 .\test_env\Scripts\Activate.ps1
